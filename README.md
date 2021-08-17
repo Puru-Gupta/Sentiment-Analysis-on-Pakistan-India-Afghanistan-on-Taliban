@@ -48,6 +48,13 @@ content3 <- reddit_content(link3$URL[1])
 user <- user_network(content2, include_author = TRUE, agg = TRUE)
 user$plot
 #str(user)
+# Neural Network for Comment "From Initiation of comment to interection and end "
+
+![spider_](https://user-images.githubusercontent.com/55012359/129716226-61a26aa2-f399-4730-848e-d6ed41b8fffe.PNG)
+
+# Zoom View of Above Neural Network Plot
+
+![zoomed](https://user-images.githubusercontent.com/55012359/129716474-b8e4dcf9-ebd7-4c15-9742-9dee6d895318.PNG)
 
 #graph <- construct_graph(content2, plot = TRUE)
 ```
