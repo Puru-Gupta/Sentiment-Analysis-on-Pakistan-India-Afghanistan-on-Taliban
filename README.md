@@ -49,12 +49,11 @@ user <- user_network(content2, include_author = TRUE, agg = TRUE)
 user$plot
 #str(user)
 # Neural Network for Comment "From Initiation of comment to interection and end "
+```
+![Rplotspider](https://user-images.githubusercontent.com/55012359/129719651-084ab4c7-8028-4737-9ec5-8a4bf5789ecd.png)
 
-![spider_](https://user-images.githubusercontent.com/55012359/129716226-61a26aa2-f399-4730-848e-d6ed41b8fffe.PNG)
-
+```{r}
 # Zoom View of Above Neural Network Plot
-
-![zoomed](https://user-images.githubusercontent.com/55012359/129716474-b8e4dcf9-ebd7-4c15-9742-9dee6d895318.PNG)
 
 #graph <- construct_graph(content2, plot = TRUE)
 ```
